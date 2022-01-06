@@ -11,7 +11,7 @@ public class Collections1 {
 	public static void main(String[] args) {
 		
 		Map<Integer,Integer> map = new HashMap<>();
-		map.put(131, 26);
+		map.put(131, 27);
 		map.put(136, 18);
 		map.put(142, 20);
 		map.put(127, 23);
